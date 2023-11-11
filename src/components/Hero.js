@@ -1,4 +1,4 @@
-import Farm from '../assets/farm.jpeg';
+import Farm from '../assets/milk-farm.jpeg';
 
 export const Hero = () => (
   <section className="text-gray-600 body-font">
