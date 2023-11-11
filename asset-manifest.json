@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dtrc-llc-website/static/css/main.d20cc6bf.css",
-    "main.js": "/dtrc-llc-website/static/js/main.11834276.js",
-    "static/js/787.d1417efa.chunk.js": "/dtrc-llc-website/static/js/787.d1417efa.chunk.js",
-    "static/media/milk-farm.jpeg": "/dtrc-llc-website/static/media/milk-farm.330ac75028c6d56e17dd.jpeg",
-    "index.html": "/dtrc-llc-website/index.html",
-    "main.d20cc6bf.css.map": "/dtrc-llc-website/static/css/main.d20cc6bf.css.map",
-    "main.11834276.js.map": "/dtrc-llc-website/static/js/main.11834276.js.map",
-    "787.d1417efa.chunk.js.map": "/dtrc-llc-website/static/js/787.d1417efa.chunk.js.map"
+    "main.css": "/static/css/main.d20cc6bf.css",
+    "main.js": "/static/js/main.fade7ea5.js",
+    "static/js/787.d1417efa.chunk.js": "/static/js/787.d1417efa.chunk.js",
+    "static/media/milk-farm.jpeg": "/static/media/milk-farm.330ac75028c6d56e17dd.jpeg",
+    "index.html": "/index.html",
+    "main.d20cc6bf.css.map": "/static/css/main.d20cc6bf.css.map",
+    "main.fade7ea5.js.map": "/static/js/main.fade7ea5.js.map",
+    "787.d1417efa.chunk.js.map": "/static/js/787.d1417efa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d20cc6bf.css",
-    "static/js/main.11834276.js"
+    "static/js/main.fade7ea5.js"
   ]
 }
