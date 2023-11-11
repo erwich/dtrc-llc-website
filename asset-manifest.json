@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dtrc-llc-website/static/css/main.d20cc6bf.css",
+    "main.js": "/dtrc-llc-website/static/js/main.44fb7d1f.js",
+    "static/js/787.d1417efa.chunk.js": "/dtrc-llc-website/static/js/787.d1417efa.chunk.js",
+    "static/media/farm.jpeg": "/dtrc-llc-website/static/media/farm.bd45a43f6d8d549ee678.jpeg",
+    "index.html": "/dtrc-llc-website/index.html",
+    "main.d20cc6bf.css.map": "/dtrc-llc-website/static/css/main.d20cc6bf.css.map",
+    "main.44fb7d1f.js.map": "/dtrc-llc-website/static/js/main.44fb7d1f.js.map",
+    "787.d1417efa.chunk.js.map": "/dtrc-llc-website/static/js/787.d1417efa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d20cc6bf.css",
+    "static/js/main.44fb7d1f.js"
+  ]
+}
