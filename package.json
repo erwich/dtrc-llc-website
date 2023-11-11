@@ -1,7 +1,7 @@
 {
   "name": "dtrc",
   "version": "0.1.0",
-  "homepage": "https://erwich.github.io/dtrc-llc-website",
+  "homepage": "https://www.dtrconsultant.com",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
